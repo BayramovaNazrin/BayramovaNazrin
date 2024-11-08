@@ -1,5 +1,6 @@
 ## Hello, I am Nazrin
-[LinkedIn](https://www.linkedin.com/in/n%C9%99zrin-bayramova-9539482b2)
+<a href="https://www.linkedin.com/in/n%C9%99zrin-bayramova-9539482b2" target="_blank">LinkedIn</a>
+
 
 
 ## Professional Statements
