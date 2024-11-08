@@ -1,5 +1,6 @@
 ## Hello, I am Nazrin
-<a href="www.linkedin.com/in/nəzrin-bayramova-9539482b2" target="_blank">LinkedIn</a>
+[LinkedIn](https://www.linkedin.com/in/n%C9%99zrin-bayramova-9539482b2)
+
 
 ## Professional Statements
 Welcome to my cybersecurity portfolio! I am an aspiring information security student having a strong desire to learn and grow, and a strong foundation in cybersecurity, having recently completed the Google Cyber Security course. 
