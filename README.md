@@ -10,13 +10,13 @@ My journey in information security has led me to develop a passion for cybersecu
 ## Skills
 | Skills                                  | Assosiacted project |
 |-----------------------------------------|---------------------|
-|Applied SQL filters to track login and access data| 
-|Automated IP access updates using Python|
-|Implementing and assessing compliance controls and security policies|
-|configuring file permissions to secure Linux systems|
-|SIEM Implementation and Log Analysis|
-|Identifying basic network vulnerabilities|
-|Basic risk assessment and access controls|
+|Applied SQL filters to track login and access data| <a href="">Document</a>|
+|Automated IP access updates using Python|<a href="">Document</a>
+|Implementing and assessing compliance controls and security policies|<a href="">Document</a>|
+|configuring file permissions to secure Linux systems|<a href="">Document</a>|
+|SIEM Implementation and Log Analysis|<a href="">Document</a>|
+|Identifying basic network vulnerabilities|<a href="">Document</a>|
+|Basic risk assessment and access controls|<a href="">Document</a>|
 
 ## Tools
 * Google Workspace (Drive, Docs, Sheets, Slides)
