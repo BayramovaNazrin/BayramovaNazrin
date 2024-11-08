@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hello, I am Nazrin
+<a href="www.linkedin.com/in/nəzrin-bayramova-9539482b2" target="_blank">LinkedIn</a>
 
-<!--
-**BayramovaNazrin/BayramovaNazrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Professional Statements
+Welcome to my cybersecurity portfolio! I am an aspiring information security student having a strong desire to learn and grow, and a strong foundation in cybersecurity, having recently completed the Google Cyber Security course. 
 
-Here are some ideas to get you started:
+## Objevtive
+My journey in information security has led me to develop a passion for cybersecurity, and I am now eager to focus on this field, specifically aiming to join a Security Operation Center (SOC) as a Tier 1 Analyst. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+| Skills                                  | Assosiacted project |
+|-----------------------------------------|---------------------|
+|Applied SQL filters to track login and access data| 
+|Automated IP access updates using Python|
+|Implementing and assessing compliance controls and security policies|
+|configuring file permissions to secure Linux systems|
+|SIEM Implementation and Log Analysis|
+|Identifying basic network vulnerabilities|
+|Basic risk assessment and access controls|
+
+## Tools
+* Google Workspace (Drive, Docs, Sheets, Slides)
+* Markdown Language 
+* Tcpdump
+* Wireshark
+* Linux OS
+* SQL
+* Chronicle
+* Splunk
+* Suricata
+* Python
+* html
+* css
