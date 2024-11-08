@@ -3,6 +3,7 @@
 
 
 
+
 ## Professional Statements
 Welcome to my cybersecurity portfolio! I am an aspiring information security student having a strong desire to learn and grow, and a strong foundation in cybersecurity, having recently completed the Google Cyber Security course. 
 
