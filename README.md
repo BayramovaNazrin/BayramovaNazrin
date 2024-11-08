@@ -13,7 +13,7 @@ My journey in information security has led me to develop a passion for cybersecu
 |Applied SQL filters to track login and access data| <a href="https://github.com/BayramovaNazrin/BayramovaNazrin/blob/main/Apply%20filters%20to%20SQL%20queries.pdf">Document</a>|
 |Automated IP access updates using Python|<a href="https://github.com/BayramovaNazrin/BayramovaNazrin/blob/main/Algorithm%20for%20file%20updates%20in%20Python.pdf">Document</a>
 |Implementing and assessing compliance controls and security policies|<a href="https://github.com/BayramovaNazrin/BayramovaNazrin/blob/main/Controls%20and%20compliance%20checklist.pdf">Document</a>|
-|configuring file permissions to secure Linux systems|<a href="https://github.com/BayramovaNazrin/BayramovaNazrin/blob/main/File%20permissions%20in%20Linux.pdf">Document</a>|
+|Configuring file permissions to secure Linux systems|<a href="https://github.com/BayramovaNazrin/BayramovaNazrin/blob/main/File%20permissions%20in%20Linux.pdf">Document</a>|
 |SIEM Implementation and Log Analysis|<a href="https://github.com/BayramovaNazrin/BayramovaNazrin/blob/main/Incident%20handler's%20journal.pdf">Document</a>|
 |Identifying basic network vulnerabilities|<a href="https://github.com/BayramovaNazrin/BayramovaNazrin/blob/main/Incident%20report%20analysis.pdf">Document</a>|
 |Basic risk assessment and access controls|<a href="https://github.com/BayramovaNazrin/BayramovaNazrin/blob/main/Vulnerability%20assessment%20report.pdf">Document</a>|
