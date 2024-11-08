@@ -1,6 +1,7 @@
 ## Hello, I am Nazrin
 <a href="https://www.linkedin.com/in/n%C9%99zrin-bayramova-9539482b2" target="_blank">LinkedIn</a>
-[Download My Résumé](https://github.com/your-username/your-repository/blob/main/assets/resume.pdf)
+
+[My Résumé](https://github.com/BayramovaNazrin/BayramovaNazrin/blob/main/Resume%20Nazrin.docx)
 
 
 
